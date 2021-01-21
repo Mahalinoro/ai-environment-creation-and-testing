@@ -1,2 +1,3 @@
-# ai-environment-testing
-AI Assignment - Chapter I
+# AI Assignment 1 | Group Assignment - Chapter I
+## AI Environment Creation & Testing
+
