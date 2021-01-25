@@ -22,6 +22,9 @@
 - [1] "Crime Statistics for South Africa", Kaggle.com, 2021. [Online]. Available: https://www.kaggle.com/slwessels/crime-statistics-for-south-africa?select=SouthAfricaCrimeStats_v2.csv. [Accessed: 22- Jan- 2021].
 - [2] "About Us | SAPS (South African Police Service)", Saps.gov.za, 2021. [Online]. Available: http://www.saps.gov.za/resource_centre/publications/statistics/crimestats/2015/crime_stats.php. [Accessed: 22- Jan- 2021].
 
+### Video Presentation:
+- Link: [Video](https://drive.google.com/file/d/1CgsSFpo2reLcng7LIdfdJmBW_JChG5gq/view?usp=sharing)
+
 ### Team Members
 - David Norman Amatey Masoperh
 - Mahalinoro Razafimanjato
