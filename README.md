@@ -25,6 +25,9 @@
 ### Video Presentation:
 - [Video Link](https://drive.google.com/file/d/1CgsSFpo2reLcng7LIdfdJmBW_JChG5gq/view?usp=sharing)
 
+### Documentation in Latex:
+- [Documentation](https://www.overleaf.com/project/600ee030eebd9b28854a315c)
+
 ### Team Members
 - David Norman Amatey Masoperh
 - Mahalinoro Razafimanjato
